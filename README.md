@@ -64,6 +64,7 @@ Welcome to the **Icarus Text-to-Image Generator**! This app utilizes Replicate's
 ## 📜 License  
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Hugosh71/Icarus_Imagery/blob/main/LICENSE)
+
 It is based on the original work by Tony Kipkemboi, the original project can be found [Here](https://github.com/tonykipkemboi/streamlit-replicate-img-app/tree/main)
 
 
