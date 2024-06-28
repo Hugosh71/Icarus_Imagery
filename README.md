@@ -1,6 +1,8 @@
 #  Icarus Text-to-Image Generator 🎨
 
-Welcome to the **Icarus Text-to-Image Generator**! This app utilizes Replicate's API to generate stunning images from text prompts. 
+Welcome to the **Icarus Text-to-Image Generator**! This app utilizes Replicate's API to generate stunning images from text prompts.
+
+Available here : [Icarus Imagery](https://icarusimagery.streamlit.app/)
 
 ![Vintage Gangster](./images/Icarus_image_Vintage.png)
 
